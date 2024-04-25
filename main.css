@@ -43,14 +43,14 @@ color:black;
 	border:solid 0px;
 	width:112px;
 	height:112px;
-	background-image: url("file:///C:/Users/legen/OneDrive/Bureaublad/proj/FigmaCar/GreenCatLogo.png");
+	background-image: url("GreenCatLogo.png");
 animation: fire 1s infinite;
 animation-direction:alternate;
 transition: 1s;
 }
 
 .GreenLogo:hover{
-  background-image: url("file:///C:/Users/legen/OneDrive/Bureaublad/proj/FigmaCar/GreenCatLogoFire.png");
+  background-image: url("GreenCatLogoFire.png");
   }
 
 .heroText1{
@@ -191,7 +191,7 @@ transition: 1s;
 .headset{
 color:#E7E8E3;
 border: solid 0px;
- background-image: url("file:///C:/Users/legen/OneDrive/Bureaublad/proj/FigmaCar/GoldBars.png");
+ background-image: url("GoldBars.png");
  background-repeat: no-repeat;
 width:1343px;
 height:603px;
@@ -251,7 +251,7 @@ text-align:center;
 
 .card1{
 border: solid 0px;
-background-image: url("file:///C:/Users/legen/OneDrive/Bureaublad/proj/FigmaCar/Rectangle%207.png");
+background-image: url("Rectangle%207.png");
 width:415px;
 height:343px;
 transition:1s;
@@ -263,7 +263,7 @@ transition:1s;
 
 .card2{
 border: solid 0px;
-background-image: url("file:///C:/Users/legen/OneDrive/Bureaublad/proj/FigmaCar/Rectangle%208.png");
+background-image: url("Rectangle%208.png");
 width:415px;
 height:343px;
 transition:1s;
@@ -275,7 +275,7 @@ transition:1s;
 
 .card3{
 border: solid 0px;
-background-image: url("file:///C:/Users/legen/OneDrive/Bureaublad/proj/FigmaCar/Rectangle%209.png");
+background-image: url("Rectangle%209.png");
 width:415px;
 height:343px;
 transition:1s;
@@ -359,7 +359,7 @@ padding-top:100px;
 
 .mask1{
 border: solid 0px;
-background-image: url("file:///C:/Users/legen/OneDrive/Bureaublad/proj/FigmaCar/fire2.png");
+background-image: url("fire2.png");
 background-repeat: no-repeat;
 width:127px;
 height:127px;
@@ -369,7 +369,7 @@ margin: 0 auto;
 
 .mask2{	
 border: solid 0px;
-background-image: url("file:///C:/Users/legen/OneDrive/Bureaublad/proj/FigmaCar/stone1.png");
+background-image: url("stone1.png");
 background-repeat: no-repeat;
 width:127px;
 height:127px;
@@ -437,12 +437,12 @@ animation-direction:alternate;
 @keyframes RedMask{
   0%{
      transform: translate(100px);
-     background-image: url("file:///C:/Users/legen/OneDrive/Bureaublad/proj/FigmaCar/Cave_Vines1.png");
+     background-image: url("Cave_Vines1.png");
   }
  
   100%{
    transform: translate(1600px);
-   background-image: url("file:///C:/Users/legen/OneDrive/Bureaublad/proj/FigmaCar/CaveVines.png");
+   background-image: url("CaveVines.png");
   }
 
 }
@@ -502,3 +502,4 @@ font-family:Cinzel Decorative;
 color:darkgray;
 }
 
+ 
